@@ -23,4 +23,4 @@
    - **Product Category Analysis:** Which categories are performing well, and are there categories with lower performance that need attention?
    - **Customer Segmentation:** Which customer segments are purchasing high-profit products, and how can marketing be tailored to these segments for growth?
 
-...
+..
